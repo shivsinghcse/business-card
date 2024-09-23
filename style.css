@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ecdfcc;
+}
+
+.card {
+    background-color: #697565;
+    width: 44vw;
+    height: 50vh;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #ecdfcc;
+    border-bottom: 2vh solid #181c14;
+}
+
+.avatar {
+    width: 18vw;
+    padding: 0;
+}
+/* span {
+    margin-right: 5px;
+    color: #ecdfcc;
+} */
